@@ -1,0 +1,12 @@
+# Contributor Covenant Code of Conduct
+
+## Our Pledge
+We are committed to creating an inclusive and welcoming environment for everyone.  
+
+## Our Standards
+Examples of behavior that contributes to a positive environment:  
+- Using inclusive language  
+- Being respectful of differing viewpoints  
+
+## Enforcement
+Instances of unacceptable behavior can be reported to the project maintainers via email: [maintainer@example.com](mailto:maintainer@example.com).  

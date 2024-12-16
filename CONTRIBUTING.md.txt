@@ -1,0 +1,15 @@
+# Contributing to Simple Interest Calculator
+
+Thank you for your interest in contributing to this project!  
+
+## How to Contribute
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m "Add a feature"`).
+4. Push to your branch (`git push origin feature-branch`).
+5. Create a pull request.
+
+## Code Style
+Please follow the best practices:  
+- Use meaningful commit messages.  
+- Ensure the code is tested and well-documented.  
