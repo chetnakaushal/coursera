@@ -1,3 +1,4 @@
+hi
 # Simple Interest Calculator
 
 A simple Bash script to calculate Simple Interest for a given Principal, Rate, and Time.  
